@@ -11,3 +11,11 @@
     - Search By Title  
     - Publication 
     - Search By journer 
+  - List All Books
+# User Management
+  - Add New User 
+  - View User Details
+  - Fine Pay
+# Book Transaction
+  -  Get Books 
+  -  Return Book 
