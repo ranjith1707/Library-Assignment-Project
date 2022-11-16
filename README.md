@@ -3,3 +3,11 @@
   - BookManagement
   - User Management
   - Book Transaction
+# Book Management
+  - Add New Book 
+  - Remove Book
+  - Search Book
+    - Search By Author 
+    - Search By Title  
+    - Publication 
+    - Search By journer 
